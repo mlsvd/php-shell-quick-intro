@@ -1,0 +1,6 @@
+    
+    a - Introduction and quick recap
+    b - Shell scripts with programming languages
+    c - PHP for shell
+    d - Examples
+    e - Open discussion

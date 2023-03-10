@@ -1,0 +1,16 @@
+There are several ways to use PHP in shell
+1. php call
+[./example03.sh]
+
+#!/bin/bash
+php index.php
+
+- - - - - - - - - - - - - - - 
+
+2. Interactive php call
+[./example04.sh]
+
+#!/bin/bash
+php -r 'phpinfo();'
+
+- - - - - - - - - - - - - - - 

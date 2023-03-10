@@ -1,0 +1,5 @@
+Shell is command line interface to the system. 
+It gathers user input and executes programs based on that input. 
+When a program finished execution, it displays resulted output.
+
+Shell creates its own "environment" process and runs in its own scope.

@@ -1,0 +1,13 @@
+Shell scripts can contain advanced control flow statements which can extend execution of commands with control flow logic
+
+Shell scripts can use (note: availability of operands depends on shell type)
+    1. Basic syntax: variables, comments
+    2. Conditionals 
+    3. Loops
+    4. Array and string operations
+    5. Functions
+    6. many more
+
+See: https://quickref.me/bash
+
+[see: ./example02.sh]

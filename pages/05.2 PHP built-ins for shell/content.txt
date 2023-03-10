@@ -1,0 +1,11 @@
+Special PHP language constructions can be used for shell:
+
+- exec()
+- passthru()
+- shell_exec()
+- system()
+- proc_* functions
+- escapeshellarg()
+- escapeshellcmd()
+
+See: https://www.php.net/manual/en/function.shell-exec.php

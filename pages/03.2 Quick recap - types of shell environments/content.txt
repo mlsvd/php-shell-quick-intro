@@ -1,0 +1,20 @@
+In Unix, there are two major types of shells:
+
+    1. Bourne shell ($ character is the default prompt)
+
+    2. C shell (% character is the default prompt)
+
+The Bourne Shell has the following subcategories:
+
+    a. Bourne shell (sh)
+    b. Korn shell (ksh)
+    c. Bourne Again shell (bash)
+    d. POSIX shell (sh)
+    e. The Z shell (zsh)
+    f. many more
+
+The C-type shells has the following subcategories:
+
+    a. C shell (csh)
+    b. TENEX/TOPS C shell (tcsh)
+    c. many more

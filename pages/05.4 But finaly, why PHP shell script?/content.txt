@@ -1,0 +1,8 @@
+So what is the main difference when using PHP shell script?
+
+When using php script as shell script, it will automaticly qualify for system concept of shell scripts, meaning:
+
+    1. Can have persmission mode and execution flag
+    2. Can be installed in /usr/local or /usr/bin folder and executed as simple as any linux/unix programm
+    3. Can be used by systemctl when configured as system service etc
+

@@ -1,0 +1,11 @@
+Shell script is a list of commands, which are listed in the order of execution.
+
+Example:
+
+------------------------------
+#!/bin/bash
+pwd
+ls
+
+
+[see: ./example01.sh]

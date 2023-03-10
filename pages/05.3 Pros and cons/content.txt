@@ -1,0 +1,13 @@
+Pros:
+
+    1. Wide range of functions and libraries to use: json, xmls, db, wsdl/soap, sockets, streams, filesystem operations etc
+    2. Programming best practices at hand: classes, functions, flexible arrays
+    3. Including/Requiring files, class autoloading, psr, laguage perks
+    4. Efficiency: PHP7+ is fast and memory efficient
+    5. Frameworks support: composer libs, symfony command component etc
+    6. Testing framework available (unit/integration/functional testing of commands is possible in sandboxed env)
+
+Cons:
+
+    1. Requires php installation and libraries if needed (eg. json, xml, dom, bcmath)
+    2. Requires language basic knowledge and concepts

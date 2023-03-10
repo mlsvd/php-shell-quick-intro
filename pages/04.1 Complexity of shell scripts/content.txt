@@ -1,0 +1,13 @@
+Shell scripts are very powerfull and application scope is enormous.
+There is literally no problem which shell scripts will fail to solve.
+
+However, since shell scripts are reasonably limited in sytax, complex shell scripts are often coupled with variaty of 
+system programs installed in order to achieve needed results. (Eg. parsing json, working with csv files etc)
+
+Unofficially, in programming world there are 2 funny optional rules of thumb for such case:
+
+    1. Rule of 6 months - it should be possible to understand clearly the purpose and basic mechanics of the script after author 
+didn't look into that code in last 6 months
+
+    2. The WTF per minute rule - As soon as script complexity reaches 3 WTF/min, the complexity can be measured as high :)
+

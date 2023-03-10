@@ -1,0 +1,5 @@
+PHP has a very immersive functionality for shell scripting.
+Language itself has built in functions to provide controlled access to underlying shell executions combining it with 
+syntax sugar and full power of language based support
+
+Let's see it in action

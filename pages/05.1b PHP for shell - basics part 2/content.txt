@@ -1,0 +1,18 @@
+3. Starting php in interactive mode:
+[./example05.sh]
+
+#!/bin/bash
+php -a
+
+- - - - - - - - - - - - - - - 
+
+4. Shell script with php executable mode in "shebang" directive
+[./example06.sh]
+
+#!/usr/bin/php
+<?php
+var_dump(true);
+
+- - - - - - - - - - - - - - -
+
+Option 4. can also has shebang directive format: #!/usr/bin/env php

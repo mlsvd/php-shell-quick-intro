@@ -1,0 +1,4 @@
+Programming language as shell script can leverage logic complexity with language specific logic constructions, syntax percs and much more
+Languages which are commonly used in shell, support many ways to perform operations with higher level approach
+
+Note: higher level, means abstraction level
